@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** (Paste the URL of this project's repository here)
-- **Live Site URL:** (Paste the GitHub Pages URL here if you set it up)
+- **Solution URL:** [(Paste the URL of this project's repository here)](https://github.com/jesussantos210/social-link-profile-jesus)
+- **Live Site URL:** [(Paste the GitHub Pages URL here if you set it up)](https://jesussantos210.github.io/social-link-profile-jesus/)
 
 ## My process
 
