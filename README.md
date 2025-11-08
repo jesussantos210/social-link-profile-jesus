@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the completed social links profile card](LINK_TO_YOUR_SOCIAL_PROFILE_IMAGE)
+![Screenshot of the completed social links profile card](/design/destkop-design.jpg)
 
 ### Links
 
